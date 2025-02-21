@@ -215,5 +215,4 @@ Just remember and realize rejection is part of the journey, but it’s not the e
 At the end of the day, the cybersecurity community thrives on shared knowledge. If you have insights, experiences, or techniques that can help others—put yourself out there. The stage is waiting for you. 
 
 
-Jeff 
-The_Gh0stface_Killer
+the_Gh0stface_Killer
