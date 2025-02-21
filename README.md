@@ -95,7 +95,7 @@ Next, let’s go over the different platforms you’ll use to submit your CFP an
 	-  **Showcase prior speaking experience** (_"I’ve presented a version of this at Basket Weaving 2025 conference, and it was well received."_)  
 	-  **Provide extra resources** (_"I have a demo and hands-on lab materials ready if needed."_)
 
-Think of it as **the bonus level**—it won’t guarantee an acceptance, but **it can give you an edge!**
+Think of it as the bonus level—it won’t guarantee an acceptance, but it can give you an edge!
 ## Different Platforms for CFP Submissions
 
 Over the years, different conferences have used a variety of platforms for their CFP submission process. Some are more streamlined than others, but my key takeaway is: always follow the specific instructions provided by the conference to avoid unnecessary silly mistakes.
