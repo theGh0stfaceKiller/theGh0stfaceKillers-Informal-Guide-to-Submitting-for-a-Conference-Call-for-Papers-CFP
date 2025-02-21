@@ -1,6 +1,6 @@
 ## Introduction
 
-"The future belongs to those who prepare for it today." - Malcom X
+**"The future belongs to those who prepare for it today." - Malcom X**
 
 Over the past few years, I’ve submitted talk proposals to a wide range of cybersecurity conferences—everything from DEF CON to smaller, local events like BSides. If there’s one thing I’ve learned, it’s that the process can be both exciting and frustrating. Imagine getting a really awesome gift you have wanted but from a annoying relative. 
 
